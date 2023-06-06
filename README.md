@@ -8,3 +8,5 @@
 I was able to find the best machine learning model that forecasts the solar power generation from PV panels, which is Random Forest Regressor.
 
 ![](https://github.com/jaydenlau014/Solar_Power_Generation_Forecasting/blob/main/Overall%20Score.png)
+![](![image](https://github.com/jaydenlau014/Solar_Power_Generation_Forecasting/assets/109339656/e369e731-d58a-41c3-9d9a-f3c932b3845c))
+
